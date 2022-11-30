@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReacTRoboFriend.git/static/css/main.46816eba.css",
+    "main.js": "/ReacTRoboFriend.git/static/js/main.c366dd9b.js",
+    "index.html": "/ReacTRoboFriend.git/index.html",
+    "main.46816eba.css.map": "/ReacTRoboFriend.git/static/css/main.46816eba.css.map",
+    "main.c366dd9b.js.map": "/ReacTRoboFriend.git/static/js/main.c366dd9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46816eba.css",
+    "static/js/main.c366dd9b.js"
+  ]
+}
